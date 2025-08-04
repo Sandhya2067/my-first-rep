@@ -1,2 +1,3 @@
-# my-first-rep
-Learning GitHub with DevOps
+hello Github,
+
+My name is Sandhyarani Tippana
